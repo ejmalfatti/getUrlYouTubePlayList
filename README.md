@@ -2,12 +2,14 @@ Obtener la lista de URL de un playlists de YouTube
 -
 
 Escribí un sencillo script en **Python** que obtiene cada URL individual de cada video que compone una lista de reproducción de YouTube.
+
 Por ejemplo de la siguiente captura de pantalla:
+
 ![](https://ejmalfatti.github.io/imagenes//playlist.png) 
 
 En ese Playlists hay 40 videos, y el script obtiene cada url y las guarda en un archivo de texto en el mismo directorio desde donde se ejecuta el script.
 
-La URL que hay que utilizar es del playlists: https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P
+La URL que hay que utilizar es del playlists: [https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P)
 
 El script se ejecutaria de la siguiente manera:
 
